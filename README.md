@@ -1,24 +1,26 @@
-# bet-fc-vue
+# Bet-FC
 
-## Project setup
+Projeto Bet-FC com Vue.JS
+
+## Instalação do Projeto
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Rodando o Projeto
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compilando o Projeto para Produção
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Rodando o Lint
 ```
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Configurações Customizadas
+Veja: [Configurações](https://cli.vuejs.org/config/).
